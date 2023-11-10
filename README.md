@@ -1,4 +1,4 @@
-# Your Project Title
+# My Project Title
 
 ![Build Status](https://github.com/dhia-bouslimi/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
